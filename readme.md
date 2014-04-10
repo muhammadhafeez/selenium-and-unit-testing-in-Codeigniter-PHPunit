@@ -4,6 +4,7 @@ For installation of phpunit and selenium visit this link
 http://phpunit.de/manual/4.1/en/installation.html
 
 * Step 1
+------------
 All you need to do is check out this repository as a submodule of your CodeIgniter
 project. The recommended location is into a directory called `tests` inside
 your application directory, wherever that may be. Now run the
@@ -14,6 +15,7 @@ $ git submodule add git://github.com/muhammadhafeez/selenium-and-unit-testing-in
 ```
 
 * Step 2 
+------------
 Add a database configuration set in config/database.php, and name this configuration set 'test'.
 Here is example code.
 
